@@ -1,0 +1,153 @@
+191226 16:23:57 [Note] Plugin 'FEDERATED' is disabled.
+191226 16:23:57 InnoDB: The InnoDB memory heap is disabled
+191226 16:23:57 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 16:23:57 InnoDB: Compressed tables use zlib 1.2.3
+191226 16:23:57 InnoDB: Initializing buffer pool, size = 128.0M
+191226 16:23:57 InnoDB: Completed initialization of buffer pool
+191226 16:23:57 InnoDB: Error: tablespace size must be at least 10 MB
+191226 16:23:57 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 16:23:57 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 16:31:27 [Note] Plugin 'FEDERATED' is disabled.
+191226 16:31:27 InnoDB: The InnoDB memory heap is disabled
+191226 16:31:27 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 16:31:27 InnoDB: Compressed tables use zlib 1.2.3
+191226 16:31:27 InnoDB: Initializing buffer pool, size = 128.0M
+191226 16:31:27 InnoDB: Completed initialization of buffer pool
+191226 16:31:27 InnoDB: Error: tablespace size must be at least 10 MB
+191226 16:31:27 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 16:31:27 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 16:31:27 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+191226 16:31:27 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+191226 16:31:27 [ERROR] Aborting
+
+191226 16:31:27 [Note] C:\Users\USER-PC\Desktop\Yeni klasör\bin\mysqld.exe: Shutdown complete
+
+191226 16:31:42 [Note] Plugin 'FEDERATED' is disabled.
+191226 16:31:42 InnoDB: The InnoDB memory heap is disabled
+191226 16:31:42 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 16:31:42 InnoDB: Compressed tables use zlib 1.2.3
+191226 16:31:42 InnoDB: Initializing buffer pool, size = 128.0M
+191226 16:31:42 InnoDB: Completed initialization of buffer pool
+191226 16:31:42 InnoDB: Error: tablespace size must be at least 10 MB
+191226 16:31:42 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 16:31:42 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 16:31:42 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+191226 16:31:42 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+191226 16:31:42 [ERROR] Aborting
+
+191226 16:31:42 [Note] C:\Users\USER-PC\Desktop\Yeni klasör\bin\mysqld.exe: Shutdown complete
+
+191226 16:46:01 [Note] Plugin 'FEDERATED' is disabled.
+191226 16:46:01 InnoDB: The InnoDB memory heap is disabled
+191226 16:46:01 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 16:46:01 InnoDB: Compressed tables use zlib 1.2.3
+191226 16:46:01 InnoDB: Initializing buffer pool, size = 128.0M
+191226 16:46:01 InnoDB: Completed initialization of buffer pool
+191226 16:46:01 InnoDB: Error: tablespace size must be at least 10 MB
+191226 16:46:01 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 16:46:01 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 16:46:01 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+191226 16:46:01 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+191226 16:46:01 [ERROR] Aborting
+
+191226 16:46:01 [Note] C:\Users\USER-PC\Desktop\Yeni klasör\bin\mysqld.exe: Shutdown complete
+
+191226 16:46:10 [Note] Plugin 'FEDERATED' is disabled.
+191226 16:46:10 InnoDB: The InnoDB memory heap is disabled
+191226 16:46:10 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 16:46:10 InnoDB: Compressed tables use zlib 1.2.3
+191226 16:46:10 InnoDB: Initializing buffer pool, size = 128.0M
+191226 16:46:10 InnoDB: Completed initialization of buffer pool
+191226 16:46:10 InnoDB: Error: tablespace size must be at least 10 MB
+191226 16:46:10 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 16:46:10 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 16:46:10 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+191226 16:46:10 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+191226 16:46:10 [ERROR] Aborting
+
+191226 16:46:10 [Note] C:\Users\USER-PC\Desktop\Yeni klasör\bin\mysqld.exe: Shutdown complete
+
+191226 16:57:33 [Note] Plugin 'FEDERATED' is disabled.
+191226 16:57:33 InnoDB: The InnoDB memory heap is disabled
+191226 16:57:33 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 16:57:33 InnoDB: Compressed tables use zlib 1.2.3
+191226 16:57:33 InnoDB: Initializing buffer pool, size = 128.0M
+191226 16:57:33 InnoDB: Completed initialization of buffer pool
+191226 16:57:33 InnoDB: Error: tablespace size must be at least 10 MB
+191226 16:57:33 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 16:57:33 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 16:57:33 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+191226 16:57:33 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+191226 16:57:33 [ERROR] Aborting
+
+191226 16:57:33 [Note] C:\Users\USER-PC\Desktop\Yeni klasör\bin\mysqld.exe: Shutdown complete
+
+191226 17:58:12 [Note] Plugin 'FEDERATED' is disabled.
+191226 17:58:12 InnoDB: The InnoDB memory heap is disabled
+191226 17:58:12 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 17:58:12 InnoDB: Compressed tables use zlib 1.2.3
+191226 17:58:12 InnoDB: Initializing buffer pool, size = 128.0M
+191226 17:58:12 InnoDB: Completed initialization of buffer pool
+191226 17:58:12 InnoDB: Error: tablespace size must be at least 10 MB
+191226 17:58:12 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 17:58:12 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 17:58:12 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+191226 17:58:12 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+191226 17:58:12 [ERROR] Aborting
+
+191226 17:58:12 [Note] C:\Users\USER-PC\Desktop\Yeni klasör\bin\mysqld.exe: Shutdown complete
+
+191226 18:33:45 [Note] Plugin 'FEDERATED' is disabled.
+191226 18:33:45 InnoDB: The InnoDB memory heap is disabled
+191226 18:33:45 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 18:33:45 InnoDB: Compressed tables use zlib 1.2.3
+191226 18:33:45 InnoDB: Initializing buffer pool, size = 128.0M
+191226 18:33:45 InnoDB: Completed initialization of buffer pool
+191226 18:33:45 InnoDB: Error: tablespace size must be at least 10 MB
+191226 18:33:45 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 18:33:45 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 18:35:26 [Note] Plugin 'FEDERATED' is disabled.
+191226 18:35:26 InnoDB: The InnoDB memory heap is disabled
+191226 18:35:26 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 18:35:26 InnoDB: Compressed tables use zlib 1.2.3
+191226 18:35:26 InnoDB: Initializing buffer pool, size = 128.0M
+191226 18:35:26 InnoDB: Completed initialization of buffer pool
+191226 18:35:26 InnoDB: Error: tablespace size must be at least 10 MB
+191226 18:35:26 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 18:35:26 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 18:35:26 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+191226 18:35:26 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+191226 18:35:26 [ERROR] Aborting
+
+191226 18:35:26 [Note] C:\Users\USER-PC\Desktop\Yeni klasör\bin\mysqld.exe: Shutdown complete
+
+191226 18:40:21 [Note] Plugin 'FEDERATED' is disabled.
+191226 18:40:22 InnoDB: The InnoDB memory heap is disabled
+191226 18:40:22 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 18:40:22 InnoDB: Compressed tables use zlib 1.2.3
+191226 18:40:22 InnoDB: Initializing buffer pool, size = 128.0M
+191226 18:40:22 InnoDB: Completed initialization of buffer pool
+191226 18:40:22 InnoDB: Error: tablespace size must be at least 10 MB
+191226 18:40:22 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 18:40:22 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 18:40:22 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+191226 18:40:22 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+191226 18:40:22 [ERROR] Aborting
+
+191226 18:40:22 [Note] C:\Users\USER-PC\Desktop\Yeni klasör\bin\mysqld.exe: Shutdown complete
+
+191226 19:05:03 [Note] Plugin 'FEDERATED' is disabled.
+191226 19:05:03 InnoDB: The InnoDB memory heap is disabled
+191226 19:05:03 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+191226 19:05:03 InnoDB: Compressed tables use zlib 1.2.3
+191226 19:05:03 InnoDB: Initializing buffer pool, size = 128.0M
+191226 19:05:03 InnoDB: Completed initialization of buffer pool
+191226 19:05:03 InnoDB: Error: tablespace size must be at least 10 MB
+191226 19:05:03 [ERROR] Plugin 'InnoDB' init function returned error.
+191226 19:05:03 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+191226 19:05:03 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+191226 19:05:03 [ERROR] Do you already have another mysqld server running on port: 3311 ?
+191226 19:05:03 [ERROR] Aborting
+
+191226 19:05:03 [Note] C:\Users\USER-PC\Desktop\Yeni klasör\bin\mysqld.exe: Shutdown complete
+
